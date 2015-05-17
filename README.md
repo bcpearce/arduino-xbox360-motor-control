@@ -15,3 +15,5 @@ Press 'A' to exit the program on Windows.
 ## Misc.
 I reccommend using an external power supply for the Arudino.  The USB port doesn't supply much power, but this will depend on which motors you are using.  
 
+## Credits
+Thanks to https://lcmccauley.wordpress.com/2014/01/05/gamepad-input-tutorial/ for supplying the code for the Gamepad.cpp class.
